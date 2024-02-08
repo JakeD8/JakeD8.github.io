@@ -1,0 +1,131 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-image:url('vBackground.jpg');
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #b7202f;
+    background-color: white;
+    margin-top: 50px;
+    display:inline-block;
+    border:2px solid #b7202f;
+
+}
+
+.titleHolder{
+    text-align: center;
+    
+}
+
+p {
+    text-align: center;
+    font-size: 18px;
+}
+
+.container {
+    text-align: center;
+    margin-top: 30px;
+}
+
+button {
+    background-color: #b7202f;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #b7202f;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+
+
+#startQuiz {
+    background-color: #b7202f;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 40px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+    width: 250px;
+    height:150px;
+    margin-top: 10%;
+}
+
+#quiz {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#questionCount {
+    font-size: 24px;
+}
+
+#question {
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+#options {
+    margin-top: 20px;
+}
+
+#dabloons {
+    text-align: center;
+    margin-top: 30px;
+}
+
+h2 {
+    color: #b7202f;
+}
+
+#dabloonCount {
+    font-size: 32px;
+    color: #b7202f;
+    margin-top: 10px;
+}
+
+.optionButton{
+    margin:10px;
+    width: 150px;
+    height: 50px;
+}
+
+.priceListing{
+    text-align:center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-radius: 60px/30px;
+}
+
+
+.prizeContainer {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.container {
+    text-align: center;
+    margin-top: 30px;
+}
+
+#earned {
+    text-align: center;
+    margin-top: 20px;
+    color: #b7202f;
+}
+
