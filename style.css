@@ -70,6 +70,7 @@ a {
 #quiz {
     text-align: center;
     margin-top: 50px;
+
 }
 
 #questionCount {
@@ -79,6 +80,9 @@ a {
 #question {
     font-size: 20px;
     margin-top: 20px;
+    max-width: 35%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #options {
