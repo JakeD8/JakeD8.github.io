@@ -8,7 +8,7 @@ const quizData = [
     },{
         question: "What is our favorite Naethan Apollo Song?",
         options: ["Cannibal","Climate Crisis Love Song","To You, From Me","Dollar Store Date"],
-        answer1: "To You, From Me",
+        answer: "To You, From Me",
         image1: "./dorm.jpg",
         image2: "./graveface.jpg"
     },{
